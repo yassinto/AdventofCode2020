@@ -24,7 +24,6 @@ public class Day4_2 {
 			while (in.hasNext()) {
 				String line = in.nextLine();
 				if (line.equals("") || !(in.hasNext())) {
-					// System.out.println(filler);
 					if (validPass(filler)) {
 						String[] passport = filler.split(" ");
 						for (String at : passport) {
