@@ -6,7 +6,7 @@ The solutions are not always meant to represent the most efficient solutions, bu
 As described on the site: "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other."
 
 ## Motivation
-I am a recent aspiring developer and 
+Recently, I have become an aspiring developer. I started this journey a few months ago, but I am a quick learner. I wanted to partake in the Advent of Code 2020, not only to improve and challenge my coding skills, but also because I love solving puzzles.  
 
 ## Links to puzzles
 * [Day 1](https://adventofcode.com/2020/day/1)
